@@ -1,2 +1,2 @@
 #!/bin/bash 
-my new local
+my new local new
